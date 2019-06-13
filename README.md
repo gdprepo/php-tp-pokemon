@@ -1,1 +1,1 @@
-# php-tp-pokemon
+# tp-pokemon-php
